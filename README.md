@@ -22,3 +22,4 @@ The key features are:
 # Resources
 1. Building A Simple CRUD Application With FastAPI: https://www.gormanalysis.com/blog/building-a-simple-crud-application-with-fastapi/
 2. Fastapi Documentation: https://pypi.org/project/fastapi/
+3. Rest APIs: https://realpython.com/api-integration-in-python/
